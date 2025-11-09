@@ -4,4 +4,4 @@ numpy
 matplotlib
 openpyxl
 xlsxwriter
-temporal-disaggregation
+scipy
